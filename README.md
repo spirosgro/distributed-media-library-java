@@ -146,8 +146,7 @@ service. Read [SECURITY.md](SECURITY.md) for concrete boundaries and next steps.
 ## Attribution and license
 
 The original domain model and operation set come from the author's coursework.
-The public transport, server, GUI, tests and documentation were revised with
-AI assistance. Original IDE output, student identifiers and coursework documents
+Original IDE output, student identifiers and coursework documents
 are excluded. See [provenance](docs/provenance.md) for an explicit change table.
 
 Project code and documentation are provided under the [MIT license](LICENSE).
