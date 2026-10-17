@@ -4,7 +4,6 @@ A Java Swing client and TCP server for managing movies, TV series and episodes.
 Built from university coursework by Spiros Grouztidis and revised into a tested,
 English-language portfolio project.
 
-![Java checks](https://github.com/spirosgro/distributed-media-library-java/actions/workflows/test.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-17%2B-007396)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
